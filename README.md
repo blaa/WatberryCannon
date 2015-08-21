@@ -2,6 +2,7 @@
 WatBerry Cannon
 ===============
 
+
 Wat? WatBerry Cannon is a RasberryPI-powered joystick-controlled WATer
 Cannon.
 
@@ -15,15 +16,15 @@ If so - follow instructions.
 
 1. Get yourself:
   - Some FET (IRLZ44) - or an overpriced rpi addon with motor control.
-  - Connect it to some PWM steered pin (I used 18)
-  - Joystick (or not, you can use touch control from mobile)
-  - Pump (for example a cheap car windshield washer pump)
-  - 2 servos to direct the hose.
+  - Connect it to some PWM pin (I used 18). Use pull-down resistor to prevent flooding.
+  - Joystick (or not, you can use touch control from mobile).
+  - Pump (for example a cheap car windshield washer pump or something funnier).
+  - 2 servos to direct the hose at moving targets (or plants).
   - Python, pigpiod, pygame, GIT.
 2. Combine stuff so that it works.
 3. Run software.
 4. Wat?
-5. Fun & profit.
+5. Fun.
 
 Notes (to self):
 - The water container should have an air intake otherwise pressure and stuff.
@@ -33,3 +34,6 @@ that even happen?!) or watering it.
 
 Todos:
 - Add camera motion detection and auto-aiming for extended fun.
+
+
+![prototype](https://github.com/blaa/WatberryCannon/blob/master/gfx/rpi_water_cannon.jpg "Proud prototype")
