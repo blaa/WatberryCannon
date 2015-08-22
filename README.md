@@ -2,7 +2,6 @@
 WatBerry Cannon
 ===============
 
-
 Wat? WatBerry Cannon is a RasberryPI-powered joystick-controlled WATer
 Cannon.
 
@@ -35,5 +34,10 @@ that even happen?!) or watering it.
 Todos:
 - Add camera motion detection and auto-aiming for extended fun.
 
+Youtube video:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6BrYJiT8wzU
+" target="_blank"><img src="http://img.youtube.com/vi/6BrYJiT8wzU/0.jpg" 
+alt="Youtube video of watberry in action" width="532" height="400" border="10" /></a>
 
 ![prototype](https://github.com/blaa/WatberryCannon/blob/master/gfx/rpi_water_cannon.jpg "Proud prototype")
